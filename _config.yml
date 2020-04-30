@@ -21,11 +21,12 @@
 title: Deep Generative Models
 email: hao.dong@pku.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Department of Computer Science @ Peking Univeristy
+  CFCS, Department of CS, Peking Univeristy
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://github.com/deep-generative-models" # the base hostname & protocol for your site, e.g. http://example.com
+# instagram_username: hao_dong_
+# twitter_username: HaoDong123
+github_username:  zsdonghao
 
 # Build settings
 theme: minima

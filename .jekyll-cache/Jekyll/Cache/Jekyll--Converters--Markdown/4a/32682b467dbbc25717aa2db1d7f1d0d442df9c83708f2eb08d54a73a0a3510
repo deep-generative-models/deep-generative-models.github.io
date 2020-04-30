@@ -1,0 +1,106 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Week 1</td>
+      <td style="text-align: left">Introduction</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 1 Introduction.pdf">Lecture 1: Introduction</a><br /><a href="files/ppt/2020/Lecture 2 Data Representation.pdf">Lecture 2: Data Representation</a><br /><a href="files/ppt/2020/Lecture 3 Mathematic Foundation &amp; Basic Concept.pdf">Lecture 3: Mathematic Foundation &amp; Basic Concept</a> <br /> 👨‍🎓<em><a href="mailto:1600012454@pku.edu.cn">Jialei Huang</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 2</td>
+      <td style="text-align: left">Autoregressive Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 4 Sequential Models - Recurrent Neural Networks.pdf">Lecture 4: Sequential Models  - Recurrent Neural Networks</a> <br /> <a href="files/ppt/2020/Lecture 5 Autoregressive Models.pdf">Lecture 5: Autoregressive Models 1</a> <br /> <a href="files/ppt/2020/Lecture 6 Autoregressive Models.pdf">Lecture 6: Autoregressive Models 2</a> <br /> 👨‍🎓<em><a href="mailto:1600012454@pku.edu.cn">Jialei Huang</a> <a href="mailto:dreamingshao@pku.edu.cn">Junning Shao</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 3</td>
+      <td style="text-align: left">Variational Autoencoders</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 7-8 From Autoencoder to VAE.pdf">Lecture 7: From Autoencoder to VAE <br /> Lecture 8: Variational Autoencoder</a> <br /> <a href="files/ppt/2020/Lecture 9 VAE variants.pdf">Lecture 9: VAE Variants</a> <br /> 👨‍🎓<em><a href="mailto:wuruihai@pku.edu.cn">Ruihai Wu</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 4</td>
+      <td style="text-align: left">Normalising Flow Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 10 Normalizing Flow Models.pdf">Lecture 10: Normalising Flow Background</a> <br /> <a href="files/ppt/2020/Lecture 11 Normalizing Flow Models.pdf">Lecture 11: Normalising Flow Models</a> <br /> <a href="files/ppt/2020/Lecture 12 TensorLayer 2.0.pdf">Lecture 12: Deep Learning Development</a> <br /> 👨‍🎓<em><a href="mailto:zjd@pku.edu.cn">Zhijian Duan</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 5</td>
+      <td style="text-align: left">Generative Adversarial Networks</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 13 Vanilla GAN.pdf">Lecture 13: Introduction of GAN</a> <br /> <a href="files/ppt/2020/Lecture 14 Understanding GANs.pdf">Lecture 14: Understanding GAN</a>  <br /> <a href="files/ppt/2020/Lecture 15 Selected GANs.pdf">Lecture 15: Selected GANs</a> <br /> 👨‍🎓<em><a href="mailto:1600012997@pku.edu.cn">Mingdong Wu</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 6</td>
+      <td style="text-align: left">Practice</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 16-18 Practice.pdf">Lecture 16: Variational Autoencoders <br /> Lecture 17: Generative Adversarial Networks <br /> Lecture 18: More: WGAN, LSGAN, VAE-GAN …</a> <br /> <a href="files/ppt/2020/Lecture 16-18 Code.zip">code</a> <br /> 👨‍🎓<em><a href="mailto:1600012997@pku.edu.cn">Xiaotian Li</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 7</td>
+      <td style="text-align: left">Evaluation of Generative Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 19 Evaluation - Sampling Quality.pdf">Lecture 19: Sampling Quality</a> <br /> <a href="files/ppt/2020/Lecture 20 Evaluation - Density Evaluation &amp; Latent Representation.pdf">Lecture 20: Density Evaluation &amp; Latent Representation</a> <br /> <a href="files/ppt/2020/Lecture 21 Evaluation - Practice.pdf">Lecture 21: Practice</a> <br /> 👨‍🎓<em><a href="mailto:1700013040@pku.edu.cn">Guanqi Zhang</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 8</td>
+      <td style="text-align: left">Energy-based Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 22 Energy-based Models - Hopfield Network.pdf">Lecture 22: Hopfield Network</a> <br /> <a href="files/ppt/2020/Lecture 23 Energy-based Models - Boltzmann Machine.pdf">Lecture 23: Boltzmann Machine</a> <br /> <a href="files/ppt/2020/Lecture 24 Energy-based Models - Deep Belief Network &amp; GAN.pdf">Lecture 24: GANs</a> <br /> 👨‍🎓<em><a href="mailto:zhaoyh98@pku.edu.cn">Yihao Zhao</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 9</td>
+      <td style="text-align: left">Discreteness in Generative Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 25 Discreteness in Generative Models - Discrete Sequence Generation.pdf">Lecture 25: Discrete Sequence Generation</a> <br /> Lecture 26: Discrete Latent Variables <br /> <a href="files/ppt/2020/Lecture 27 Discreteness in Generative Models - Generating Graphs.pdf">Lecture 27: Generating Graphs</a> <br /> 👨‍🎓<em><a href="mailto:1700017715@pku.edu.cn">Hangrui Bi</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 10</td>
+      <td style="text-align: left">Challenges of Generative Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 28 Challenge - High-dimensional Data Generation.pdf">Lecture 28: High-dimensional Data Generation</a> <br /> <a href="files/ppt/2020/Lecture 29 Challenge - Learning Large Encoder.pdf">Lecture 29: Learning Large Encoder</a> <br /> <a href="files/ppt/2020/Lecture 30 Challenge - Others.pdf">Lecture 30 Other Challenges</a> <br /> 👨‍🎓<em><a href="mailto:wmingd@pku.edu.cn">Mingdong Wu</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 11</td>
+      <td style="text-align: left">Applications of Generative Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 31 Application of Generative Models - Image-to-Image Translation.pdf">Lecture 31: Image Synthesis, Translation and Manipulation</a> <br /> <a href="files/ppt/2020/Lecture 32 Application - X learning.pdf">Lecture 32: X Learning</a> <br /> <a href="files/ppt/2020/Lecture 33 Application - Advanced topics.pdf">Lecture 33: Advanced Topics</a> <br /> 👨‍🎓<em><a href="mailto:zhaobingcan0103@pku.edu.cn">Bingcan Zhao</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 12</td>
+      <td style="text-align: left">Generative Model Variants</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture34 Generative Model Variants - GLO IMLE GLANN.pdf">Lecture 34: GLO, IMLE, GLANN</a> <br /> Lecture 35: Discussion <br /> Lecture 36: Practice <br /> 👨‍🎓<em><a href="mailto:yhq@pku.edu.cn">Haoqi Yuan</a></em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 13</td>
+      <td style="text-align: left">Paper Reading</td>
+      <td style="text-align: left">TBA <br /> TBA <br /> TBA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 14</td>
+      <td style="text-align: left">Paper Reading</td>
+      <td style="text-align: left">TBA <br /> TBA <br /> TBA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 15</td>
+      <td style="text-align: left">Group Projects</td>
+      <td style="text-align: left">TBA <br /> TBA <br /> TBA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 16</td>
+      <td style="text-align: left">Group Projects</td>
+      <td style="text-align: left">TBA <br /> TBA <br /> TBA</td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+<p float="left">
+
+<a href="https://deepreinforcementlearningbook.org" target="\_blank">
+  <img src="http://deep-reinforcement-learning-book.github.io/assets/images/cover_v1.png" width="200" />
+ </a> 
+
+<a href="http://www.broadview.com.cn/book/5059">
+  <img src="http://download.broadview.com.cn/ScreenShow/180371146440fada4ad2" width="174" /> 
+</a>
+
+</p>
+</div>
+:ET
