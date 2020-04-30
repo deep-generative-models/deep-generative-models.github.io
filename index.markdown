@@ -5,6 +5,13 @@
 layout: home
 ---
 
+
+<a href="https://deepreinforcementlearningbook.org" target="\_blank">
+  <img src="files/web/water-top-small.png" />
+ </a> 
+
+
+
 Spring 2020 - Thu 3:00-6:00 PM, Peking University
 
 This course covers the fundamentals, research topics and applications of deep generative models.
@@ -59,4 +66,7 @@ For questions, please discuss on Wechat group. You can also email Dr. Dong at ha
 </p>
 </div>
 
+<a href="https://deepreinforcementlearningbook.org" target="\_blank">
+  <img src="files/web/water-bottom.png" />
+ </a> 
 
