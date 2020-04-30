@@ -10,6 +10,6 @@ The course covers the fundamentals, research topics and applications of deep gen
 
 
 <a href="https://deepreinforcementlearningbook.org" target="\_blank">
-  <img src="files/web/water-bottom-min.png" />
+  <img src="../files/web/water-bottom-min.png" />
  </a> 
 
