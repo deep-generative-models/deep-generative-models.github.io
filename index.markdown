@@ -42,7 +42,7 @@ This course covers the fundamentals, research topics and applications of deep ge
 
 # Course Staff
 - Instructor: [Hao Dong](http://zsdonghao.github.io)
-- Teaching Assistants: [Jialei Huang](mailto:1600012454@pku.edu.cn), [Junning Shao](mailto:dreamingshao@pku.edu.cn), [Ruihai Wu](mailto:wuruihai@pku.edu.cn), [Zhijian Duan](mailto:zjd@pku.edu.cn), [Mingdong Wu](mailto:1600012997@pku.edu.cn), [Xiaotian Li](mailto:1600012997@pku.edu.cn), [Guanqi Zhang](mailto:1700013040@pku.edu.cn), [Yihao Zhao](mailto:zhaoyh98@pku.edu.cn), [Hangrui Bi](mailto:1700017715@pku.edu.cn), [Mingdong Wu](mailto:wmingd@pku.edu.cn), [Bingcan Zhao](mailto:zhaobingcan0103@pku.edu.cn), [Haoqi Yuan](mailto:yhq@pku.edu.cn)
+- Teaching Assistants: [Jialei Huang](mailto:1600012454@pku.edu.cn), [Junning Shao](mailto:dreamingshao@pku.edu.cn), [Ruihai Wu](mailto:wuruihai@pku.edu.cn), [Zhijian Duan](mailto:zjd@pku.edu.cn), [Mingdong Wu](mailto:1600012997@pku.edu.cn), [Xiaotian Li](mailto:1600012997@pku.edu.cn), [Guanqi Zhang](mailto:1700013040@pku.edu.cn), [Yihao Zhao](mailto:zhaoyh98@pku.edu.cn), [Hangrui Bi](mailto:1700017715@pku.edu.cn), [Bingcan Zhao](mailto:zhaobingcan0103@pku.edu.cn), [Haoqi Yuan](mailto:yhq@pku.edu.cn)
 
 
 # Feedback
