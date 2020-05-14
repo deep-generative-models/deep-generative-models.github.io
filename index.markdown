@@ -20,6 +20,8 @@ This course covers the fundamentals, research topics and applications of deep ge
 
 # Schedule
 
+## Fundamentals
+
 |  		  |       |        |
 | :------| :---- | :---- |
 | Week 1 | Introduction | [Lecture 1: Introduction](files/ppt/2020/Lecture 1 Introduction.pdf)<br>[Lecture 2: Data Representation](files/ppt/2020/Lecture 2 Data Representation.pdf)<br> Lecture 3: Mathematic Foundation & Basic Concept|
@@ -28,16 +30,26 @@ This course covers the fundamentals, research topics and applications of deep ge
 | Week 4 | Normalising Flow Models | [Lecture 10: Normalising Flow Background](files/ppt/2020/Lecture 10 Normalizing Flow Models.pdf) <br> [Lecture 11: Normalising Flow Models](files/ppt/2020/Lecture 11 Normalizing Flow Models.pdf) <br> [Lecture 12: Deep Learning Development](files/ppt/2020/Lecture 12 TensorLayer 2.0.pdf) |
 | Week 5 | Generative Adversarial Networks | [Lecture 13: Introduction of GAN](files/ppt/2020/Lecture 13 Vanilla GAN.pdf) <br> [Lecture 14: Understanding GAN](files/ppt/2020/Lecture 14 Understanding GANs.pdf)  <br> [Lecture 15: Selected GANs](files/ppt/2020/Lecture 15 Selected GANs.pdf) |
 | Week 6 | Practice | [Lecture 16: Variational Autoencoders <br> Lecture 17: Generative Adversarial Networks <br> Lecture 18: More: WGAN, LSGAN, VAE-GAN ...](files/ppt/2020/Lecture 16-18 Practice.pdf) <br> [GAN/VAE](files/ppt/2020/Lecture 16-18 Code.zip)  [DCGAN](https://github.com/tensorlayer/dcgan) [CycleGAN](https://github.com/tensorlayer/cyclegan) [SRGAN](https://github.com/tensorlayer/srgan)|
+
+## Research & Application
+
+|  		  |       |        |
+| :------| :---- | :---- |
 | Week 7 | Evaluation of Generative Models | [Lecture 19: Sampling Quality](files/ppt/2020/Lecture 19 Evaluation - Sampling Quality.pdf) <br> [Lecture 20: Density Evaluation & Latent Representation](files/ppt/2020/Lecture 20 Evaluation - Density Evaluation & Latent Representation.pdf) <br> [Lecture 21: Practice](files/ppt/2020/Lecture 21 Evaluation - Practice.pdf) |
 | Week 8 | Energy-based Models | [Lecture 22: Hopfield Network](files/ppt/2020/Lecture 22 Energy-based Models - Hopfield Network.pdf) <br> [Lecture 23: Boltzmann Machine](files/ppt/2020/Lecture 23 Energy-based Models - Boltzmann Machine.pdf) <br> [Lecture 24: GANs](files/ppt/2020/Lecture 24 Energy-based Models - Deep Belief Network & GAN.pdf) |
 | Week 9 | Discreteness in Generative Models | [Lecture 25: Discrete Sequence Generation](files/ppt/2020/Lecture 25 Discreteness in Generative Models - Discrete Sequence Generation.pdf) <br> Lecture 26: Discrete Latent Variables <br> [Lecture 27: Generating Graphs](files/ppt/2020/Lecture 27 Discreteness in Generative Models - Generating Graphs.pdf) |
 | Week 10 | Challenges of Generative Models | [Lecture 28: High-dimensional Data Generation](files/ppt/2020/Lecture 28 Challenge - High-dimensional Data Generation.pdf) <br> [Lecture 29: Learning Large Encoder](files/ppt/2020/Lecture 29 Challenge - Learning Large Encoder.pdf) <br> [Lecture 30: Other Challenges](files/ppt/2020/Lecture 30 Challenge - Others.pdf) |
 | Week 11 | Applications of Generative Models | [Lecture 31: Image Synthesis, Translation and Manipulation](files/ppt/2020/Lecture 31 Application of Generative Models - Image-to-Image Translation.pdf) <br> [Lecture 32: X Learning](files/ppt/2020/Lecture 32 Application - X learning.pdf) <br> [Lecture 33: Advanced Topics](files/ppt/2020/Lecture 33 Application - Advanced topics.pdf) |
 | Week 12 | Generative Model Variants | [Lecture 34: GLO, IMLE, GLANN](files/ppt/2020/Lecture34 Generative Model Variants - GLO IMLE GLANN.pdf) <br> Lecture 35: Discussion <br> Lecture 36: Practice |
-| Week 13 | Paper Reading | TBA <br> TBA <br> TBA |
-| Week 14 | Paper Reading | TBA <br> TBA <br> TBA |
-| Week 15 | Group Projects | TBA <br> TBA <br> TBA |
-| Week 16 | Group Projects | TBA <br> TBA <br> TBA |
+
+## Practices
+
+|  		  |       |        |
+| :------| :---- | :---- |
+| Week 13 | Paper Reading | [11-1 Multi-source Domain Adaptation for Semantic Segmentation, NeurIPS 2019](files/ppt/2020/11-1-董和鑫-Multi-source Domain Adaptation for Semantic Segmentation-NeurIPS2019.pdf) <br> [11-2 Generating Natural Language Adversarial Examples on a Large Scale with Generative Models, arxiv 2020](files/ppt/2020/11-2 房晨 桑宇辰_Generating Natural Language Adversarial Examples on a Large Scale with Generative Models_arxiv2020.pdf) <br> [11-3 StructureNet, SIGGRAPH Asia 2019](files/ppt/2020/11-3_蒋鸿达_StructureNet_SIGGRAPH_Asia_2019.pptx) <br> [11-4 GANimation: Anatomically-aware Facial Animation from a Single Image, ECCV 2018](files/ppt/2020/11-4_朱峰_GANimation_ECCV2018.pdf) <br> [11-5 Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation, CVPR 2020](files/ppt/2020/11-5_胡晟&陈伟杰_NICE-GAN_CVPR2020.pptx) <br> [13-1 Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, ACL 2017](files/ppt/2020/13-1_沈心怡_Learning_Discourse-level_Diversity_for_Neural_Dialog_Models_using_Conditional_Variational_Autoencoders_ACL2017.pdf) <br> [13-2 Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation, NeurIPS 2018](files/ppt/2020/13-2_LiZiyao_MaXiaojun_GCPN_NeurIPS2018.pdf) <br> [13-3 PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, ICCV 2019](files/ppt/2020/13-3_Te+Su_PointFlow_ICCV2019.pdf) <br> [13-4 Pretraining Text Encoders As Discriminators Rather Than Generators, ICLR 2020](files/ppt/2020/13-4_韩佳乘_PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS_ICLR2020.pptx) <br> [13-5 ClusterGAN, AAAI 2019](files/ppt/2020/13-5_尹衡闯 陶宛玉_ClusterGAN_AAAI2019.pptx) <br> [13-6 Unified Language Model Pre-training for Natural Language Understanding and Generation, NeurIPS 2019](files/ppt/2020/13-6_陈德里_UNILM_NIPS2019.pptx) <br> [13-7 LSGAN: Least Squares Generative Adversarial Networks, ICCV 2017 & PAMI 2019](files/ppt/2020/13-7_李喆琛_初济群_LSGAN_ICCV2017&TPAMI2019.pdf) <br> [13-8 LeakGAN: Long Text Generation via Adversarial Training with Leaked Information, AAAI 2018](files/ppt/2020/13-8_刘辉_林哲_leakGAN Long Text Generation via Adversarial Training with Leaked Information_AAAI18.pptx) <br> [13-9  Semantic Photo Manipulation with a Generative Image Prior, SIGGRAPH 2019](files/ppt/2020/13-9_要曙丽_GANPaint Studio_SIGGRAPH2019.pdf) <br> [13-10 StyleGAN: A Style-Based Generator Architecture for Generative_CVPR2019](files/ppt/2020/13-10_冯斌_刘泽群A Style-Based Generator Architecture for Generative_CVPR2019.pptx) |
+| Week 14 | Paper Reading | [14-1](files/ppt/2020/14-1_X.pdf) <br> [14-2](files/ppt/2020/14-2_X.pdf) <br> [14-3](files/ppt/2020/14-3_X.pdf) <br> [14-4](files/ppt/2020/14-4_X.pdf) <br> [14-5](files/ppt/2020/14-5_X.pdf) <br> [14-6](files/ppt/2020/14-6_X.pdf) <br> [14-7](files/ppt/2020/14-7_X.pdf) <br> [14-8](files/ppt/2020/14-8_X.pdf) <br> [14-9](files/ppt/2020/14-9_X.pdf) <br> [14-10](files/ppt/2020/14-10_X.pdf)  |
+| Week 15 | Group Projects | [15-1](files/ppt/2020/15-1_X.pdf) <br> [15-2](files/ppt/2020/15-2_X.pdf) <br> [15-3](files/ppt/2020/15-3_X.pdf) <br> [15-4](files/ppt/2020/15-4_X.pdf) <br> [15-5](files/ppt/2020/15-5_X.pdf) <br> [15-6](files/ppt/2020/15-6_X.pdf) <br> [15-7](files/ppt/2020/15-7_X.pdf) <br> [15-8](files/ppt/2020/15-8_X.pdf) <br> [15-9](files/ppt/2020/15-9_X.pdf) <br> [15-10](files/ppt/2020/15-10_X.pdf) <br> [15-11](files/ppt/2020/15-9_X.pdf) <br> [15-12](files/ppt/2020/15-10_X.pdf)  |
+| Week 16 | Group Projects | [16-1](files/ppt/2020/16-1_X.pdf) <br> [16-2](files/ppt/2020/16-2_X.pdf) <br> [16-3](files/ppt/2020/16-3_X.pdf) <br> [16-4](files/ppt/2020/16-4_X.pdf) <br> [16-5](files/ppt/2020/16-5_X.pdf) <br> [16-6](files/ppt/2020/16-6_X.pdf) <br> [16-7](files/ppt/2020/16-7_X.pdf) <br> [16-8](files/ppt/2020/16-8_X.pdf) <br> [16-9](files/ppt/2020/16-9_X.pdf) <br> [16-10](files/ppt/2020/16-10_X.pdf) <br> [16-11](files/ppt/2020/16-9_X.pdf) <br> [16-12](files/ppt/2020/16-10_X.pdf) <br> [16-13](files/ppt/2020/16-13_X.pdf)   |
 
 
 # Course Staff
