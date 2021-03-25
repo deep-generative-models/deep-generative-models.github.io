@@ -26,9 +26,10 @@ This course covers the fundamentals, research topics and applications of deep ge
 
 |  		  |       |        |
 | :------| :---- | :---- |
-| Week 1 | Introduction | [Lecture 1: Introduction](files/ppt/2020/Lecture 1 Introduction.pdf)<br>[Lecture 2: Data Representation](files/ppt/2020/Lecture 2 Data Representation.pdf)<br> Lecture 3: Mathematic Foundation & Basic Concept|
-| Week 2 | Autoregressive Models |  |
-| Week 3 | Variational Autoencoders |  |
+| Week 1 | Introduction | [Lecture 1: Introduction](files/ppt/2021/Lecture 1 Introduction.pdf)<br>[Lecture 2: Data Representation](files/ppt/2021/Lecture 2 Data Representation.pdf)<br> Lecture 3: Mathematic Foundation & Basic Concept|
+| Week 2 | Autoregressive Models | [Lecture 4: Sequential Models  - Recurrent Neural Networks](files/ppt/2021/Lecture 4 Sequential Models - Recurrent Neural Networks.pdf) <br> [Lecture 5: Autoregressive Models 1](files/ppt/2021/Lecture 5 Autoregressive Models.pdf) <br> [Lecture 6: Autoregressive Models 2](files/ppt/2021/Lecture 6 Autoregressive Models.pdf) |
+| Week 3 | Variational Autoencoders | [Lecture 7: From Autoencoder to VAE <br> Lecture 8: Variational Autoencoder](files/ppt/2021/Lecture 7-8 From Autoencoder to VAE.pdf) <br> [Lecture 9: VAE Variants](files/ppt/2021/Lecture 9 VAE variants.pdf) |
+
 | Week 4 | Normalising Flow Models |  |
 | Week 5 | Generative Adversarial Networks |  |
 | Week 6 | Practice | |
