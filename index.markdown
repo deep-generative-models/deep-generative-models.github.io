@@ -31,7 +31,7 @@ This course covers the fundamentals, research topics and applications of deep ge
 | Week 3 | Variational Autoencoders | [Lecture 7: From Autoencoder to VAE <br> Lecture 8: Variational Autoencoder](files/ppt/2021/Lecture 7-8 From Autoencoder to VAE.pdf) <br> [Lecture 9: VAE Variants](files/ppt/2021/Lecture 9 VAE variants.pdf) |
 | Week 4 | Normalising Flow Models | [Lecture 10: Normalising Flow Background](files/ppt/2021/Lecture 10 Normalising Flow Models.pdf) <br> [Lecture 11-12: Normalising Flow Models](files/ppt/2021/Lecture 11 Normalising Flow Models.pdf) |
 | Week 5 | Generative Adversarial Networks | [Lecture 13: Introduction of GAN](files/ppt/2021/Lecture 13 Vanilla GAN.pdf) <br> [Lecture 14: Understanding GAN](files/ppt/2021/Lecture 14 Understanding GANs.pdf)  <br> [Lecture 15: Selected GANs](files/ppt/2021/Lecture 15 Selected GANs.pdf)  |
-| Week 6 | Practice | |
+| Week 6 | Practice | [Lecture 16-18: Practice: VAE and GAN](files/ppt/2021/Lecture 16-18 Practice.pdf) <br> [Lecture 16-18: Demo Code](files/ppt/2021/Lecture 16-18 Code)|
 
 ## Research & Application
 
