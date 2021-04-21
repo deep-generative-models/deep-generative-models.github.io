@@ -37,7 +37,7 @@ This course covers the fundamentals, research topics and applications of deep ge
 
 |  		  |       |        |
 | :------| :---- | :---- |
-| Week 7 | Evaluation of Generative Models |   |
+| Week 7 | Evaluation of Generative Models | [Lecture 19: Sampling Quality](files/ppt/2021/Lecture 19 Evaluation - Sampling Quality.pdf) <br> [Lecture 20: Density Evaluation & Latent Representation](files/ppt/2021/Lecture 20 Evaluation - Density Evaluation & Latent Representation.pdf) <br> [Lecture 21: Practice](files/ppt/2021/Lecture 21 Evaluation - Practice.pdf)   |
 | Week 8 | Energy-based Models |   |
 | Week 9 | Discreteness in Generative Models |   |
 | Week 10 | Challenges of Generative Models |   |
