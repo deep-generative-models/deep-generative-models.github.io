@@ -39,7 +39,7 @@ This course covers the fundamentals, research topics and applications of deep ge
 | :------| :---- | :---- |
 | Week 7 | Evaluation of Generative Models | [Lecture 19: Sampling Quality](files/ppt/2021/Lecture 19 Evaluation - Sampling Quality.pdf) <br> [Lecture 20: Density Evaluation & Latent Representation](files/ppt/2021/Lecture 20 Evaluation - Density Evaluation & Latent Representation.pdf) <br> [Lecture 21: Practice](files/ppt/2021/Lecture 21 Evaluation - Practice.pdf)   |
 | Week 8 | Energy-based Models |  [Lecture 22: Hopfield Network](files/ppt/2021/Lecture 22 Energy-based Models - Hopfield Network.pdf) <br> [Lecture 23: Boltzmann Machine](files/ppt/2021/Lecture 23 Energy-based Models - Boltzmann Machine.pdf) <br> [Lecture 24: Energy-based GANs](files/ppt/2021/Lecture 24 Energy-based Models - Deep Belief Network & GAN.pdf)  |
-| Week 9 | Challenges of Generative Models |   |
+| Week 9 | Challenges of Generative Models |  [Lecture 25: High-dimensional Data Generation](files/ppt/2021/Lecture 25 Challenge - High-dimensional Data Generation.pdf) <br> [Lecture 26: Learning Large Encoder](files/ppt/2021/Lecture 26 Challenge - Learning Large Encoder.pdf) <br> [Lecture 27: Other Challenges](files/ppt/2021/Lecture 27 Challenge - Others.pdf) |
 | Week 10 | Applications of Generative Models |  |
 
 
