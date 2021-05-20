@@ -47,7 +47,7 @@ This course covers the fundamentals, research topics and applications of deep ge
 
 |  		  |       |        |
 | :------| :---- | :---- |
-| Week 11 | Paper Reading | |
+| Week 11 | Paper Reading | EMNLP2020: Learning VAE-LDA Models with Rounded Reparameterization Trick   <br> ICLR2021: Zero-shot Synthesis with Group-Supervised Learning <br> CVPR2020: Analyzing and Improving the Image Quality of StyleGAN <br> CVPR2020: Interpreting the Latent Space of GANs for Semantic Face Editing <br> CVPR2020:Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models <br> CVPR2021: PISE: Person Image Synthesis and Editing with Decoupled GAN <br> NIPS2020: A Causal View of Compositional Zero-Shot Recognition <br> ACL2017: Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders|
 | Week 12 | Paper Reading | |
 | Week 13 | Paper Reading | |
 | Week 14 | Group Projects | |
@@ -56,7 +56,7 @@ This course covers the fundamentals, research topics and applications of deep ge
 
 # Course Staff
 - Instructor: [Hao Dong](http://zsdonghao.github.io)
-- Teaching Assistants: [Ranchu Wang](churanwang@pku.edu.cn) churanwang@pku.edu.cn
+- Teaching Assistants: [Churan Wang](churanwang@pku.edu.cn) churanwang@pku.edu.cn
 
 
 # Feedback
