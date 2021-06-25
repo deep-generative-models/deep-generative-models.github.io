@@ -49,10 +49,10 @@ This course covers the fundamentals, research topics and applications of deep ge
 | :------| :---- | :---- |
 | Week 11 | Paper Reading | EMNLP2020: Learning VAE-LDA Models with Rounded Reparameterization Trick   <br> ICLR2021: Zero-shot Synthesis with Group-Supervised Learning <br> CVPR2020: Analyzing and Improving the Image Quality of StyleGAN <br> CVPR2020: Interpreting the Latent Space of GANs for Semantic Face Editing <br> CVPR2020:Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models <br> CVPR2021: PISE: Person Image Synthesis and Editing with Decoupled GAN <br> NIPS2020: A Causal View of Compositional Zero-Shot Recognition <br> ACL2017: Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders|
 | Week 12 | Paper Reading | ICLR2021： A Distributional Approach to Controlled Text Generation <br> Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space <br> ICLR2021: Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering <br> CVPR2021 Few-shot Image Generation via Cross-domain Correspondence <br> ICLR2021 On Self-Supervised Image Representations for GAN Evaluation <br> JCP：Physics-informed semantic inpainting: Application to geostatistical modeling <br> StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery <br> ECCV2020: Contrastive Learning for Unpaired Image-to-Image Translation|
-| Week 13 | Paper Reading | ICLR20: Plug and Play Language Models: A Simple Approach to Controlled Text Generation <br> ECCV2020: Unpaired Image-to-Image Translation using Adversarial Consistency Loss <br> NIPS2018: A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation <br>  CVPR2021: Domain Generalization via Inference-time Label-Preserving Target Projections <br> ICLR2020: low-resource knowledge- grounded dialogue generation <br> CoCon: A Self-Supervised Approachfor Controlled Text Generation <br> CVPR2020：PointAugment an Auto-Augmentation Framework for Point Cloud Classification <br> Cell System 20 A Generative Neural Network for Maximizing Fitness and Diversity of Synthetic DNA and Protein Sequences|
-| Week 14 | Group Projects | |
-| Week 15 | Group Projects | |
-| Week 16 | Group Projects | |
+| Week 13 | Paper Reading | ICLR20: Plug and Play Language Models: A Simple Approach to Controlled Text Generation <br> ECCV2020: Unpaired Image-to-Image Translation using Adversarial Consistency Loss <br> NIPS2018: A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation <br>  CVPR2021: Domain Generalization via Inference-time Label-Preserving Target Projections <br> ICLR2020: low-resource knowledge- grounded dialogue generation <br> CoCon: A Self-Supervised Approachfor Controlled Text Generation <br> CVPR2020：PointAugment an Auto-Augmentation Framework for Point Cloud Classification <br> Cell System 20 A Generative Neural Network for Maximizing Fitness and Diversity of Synthetic DNA and Protein Sequences| 
+| Week 14 | Group Projects | Taming transformers for High-Resolution Image Synthesis<br> Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One <br> Syntax-Guided Grammatical Error Correction Model <br> SRFlow: Learning the Super-Resolution Space with Normalizing Flow <br> GAN-BERT on Virus host prediction <br> Improved Image2StyleGAN <br> Controlable Sentence Simplification <br> Implicit Normalizing Flows|
+| Week 15 | Group Projects | Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation <br> PointAugment: an Auto-Augmentation Framework for Point Cloud Classification <br>  Neural Text Generation with Part-of-Speech Guided Softmax <br> Adapt iterative back translation in AMR Parsing <br> Contrastive Learning for Unpaired Image-to-Image Translation <br> Abstractive Dialog Summarization <br> Efficient Upscaling of Geologic Model based on Theory-guided Encoder-Decoder <br> CycleGAN for Domain Adaptation in Medical Imaging|
+| Week 16 | Group Projects | GAN-CodeBERT<br> Story of Face Swapping <br> Hippop-Transformer: Towards Rhymed Chinese Lyric Generation <br> Low/Zero-Resource Knowledge-Grounded Dialogue Generation <br> Transfer Learning with Domain Transfer Networks <br> BSP-CVAE for mesh generation <br> Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models <br> Exploring Degree Control of General-Text-Driven Manipulation of StyleGAN Imagery<br> GraphLVAE <br> Hierarchical and Spatial VAE|
 
 # Course Staff
 - Instructor: [Hao Dong](http://zsdonghao.github.io)
@@ -67,6 +67,7 @@ For questions, please discuss on the Wechat group. You can also email Dr. Dong a
 <div align="center">
 <p float="left">
 
+
 <a href="https://deepreinforcementlearningbook.org" target="\_blank">
   <img src="http://deep-reinforcement-learning-book.github.io/assets/images/cover_v1.png" width="200" />
  </a> 
@@ -75,6 +76,12 @@ For questions, please discuss on the Wechat group. You can also email Dr. Dong a
 <a href="http://www.broadview.com.cn/book/5059">
   <img src="http://download.broadview.com.cn/ScreenShow/180371146440fada4ad2" width="174" /> 
 </a>
+
+
+<a href="http://www.broadview.com.cn/book/6544" target="\_blank">
+  <img src="http://download.broadview.com.cn/ScreenShow/2106dcc52ead176cb568" width="200" />
+ </a> 
+
 
 </p>
 </div>
